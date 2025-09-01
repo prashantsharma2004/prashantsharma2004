@@ -1,37 +1,31 @@
-<h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=600&lines=%F0%9F%91%8B+Hi,+I%27m+Prashant+Sharma!+Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
+# Prashant Sharma
 
-<h3 align="center">
-  A Passionate Java Full Stack Developer from Indore, MP <img src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantsharma2004&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+### Java Full Stack Developer | Indore, India
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Building and collaborating on **scalable Java full-stack web applications**  
-- 🏫 Enhancing skills in **Java, Spring Boot, Hibernate, and Data Structures & Algorithms**  
-- 🤝 Open to **opportunities involving backend system optimization and modern frameworks**
+🔹 **About Me**  
+I am Prashant Sharma, a dedicated Java Full Stack Developer with a strong foundation in Java, Spring Boot, Hibernate, JSP, Servlets, and MySQL. I specialize in designing and delivering scalable and maintainable web applications that solve real business challenges. I am passionate about clean code, problem-solving, and continuous learning in emerging technologies and algorithms.
 
 ---
 
-## 🌐 Portfolio & Projects
-
-- 💻 Explore my projects:  
-  - [Hospital Management System](https://github.com/prashantsharma2004/HOSPITAL-MANAGEMENT-SYSTEM.git)  
-  - [Notehub Application](https://github.com/prashantsharma2004/Notehub-application.git)  
-  - [File Hider](https://github.com/prashantsharma2004/File-Hider.git)  
-- 💬 Ask me about: *Java, OOP, Hibernate, JSP, Servlets, SQL*  
-- ❤️ Passionate about crafting **clean, efficient, and maintainable code**
+### 🚀 Current Focus
+- Building robust full-stack applications leveraging modern Java technologies.  
+- Enhancing expertise in data structures, algorithms, and new backend frameworks.  
+- Actively seeking opportunities to contribute to impactful software development projects.
 
 ---
 
-## 🛠️ Tech Stack
+### 💼 Selected Projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Hospital Management System](https://github.com/prashantsharma2004/HOSPITAL-MANAGEMENT-SYSTEM.git) | Comprehensive system for healthcare management | Java, Spring Boot, MySQL |
+| [Notehub Application](https://github.com/prashantsharma2004/Notehub-application.git) | Efficient note-taking web app | Java, JSP, Servlets |
+| [File Hider](https://github.com/prashantsharma2004/File-Hider.git) | Secure file encryption and management | Java, Hibernate |
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -41,15 +35,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
-- 🔗 LinkedIn: [Prashant Sharma](https://www.linkedin.com/in/prashant-sharma19082004/)  
+- LinkedIn: [https://www.linkedin.com/in/prashant-sharma19082004/](https://www.linkedin.com/in/prashant-sharma19082004/)
 
 ---
 
-> 💬 Let’s connect & build innovative Java applications that make an impact!
+> I am always open to networking, collaboration, and learning opportunities. Let’s build innovative solutions together.
