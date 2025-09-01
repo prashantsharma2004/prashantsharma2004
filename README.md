@@ -19,9 +19,9 @@ I am Prashant Sharma, a dedicated Java Full Stack Developer with a strong founda
 ### 💼 Selected Projects
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Hospital Management System](https://github.com/prashantsharma2004/HOSPITAL-MANAGEMENT-SYSTEM.git) | Comprehensive system for healthcare management | Java, Spring Boot, MySQL |
-| [Notehub Application](https://github.com/prashantsharma2004/Notehub-application.git) | Efficient note-taking web app | Java, JSP, Servlets |
-| [File Hider](https://github.com/prashantsharma2004/File-Hider.git) | Secure file encryption and management | Java, Hibernate |
+| [Hospital Management System](https://github.com/prashantsharma2004/HOSPITAL-MANAGEMENT-SYSTEM.git) | Comprehensive system for healthcare management System | Java, JDBC Connectivity, MySQL |
+| [Notehub Application](https://github.com/prashantsharma2004/Notehub-application.git) | Efficient note-taking web application | Java, JSP, Servlets,Hibernate(ORM) |
+| [File Hider](https://github.com/prashantsharma2004/File-Hider.git) | Secure file encryption and management | Java,OOP,JDBC,mail API |
 
 ---
 
@@ -43,6 +43,7 @@ I am Prashant Sharma, a dedicated Java Full Stack Developer with a strong founda
 ### 📫 Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/prashant-sharma19082004/](https://www.linkedin.com/in/prashant-sharma19082004/)
+- mail: prashantsharma708986@gmail.com
 
 ---
 
