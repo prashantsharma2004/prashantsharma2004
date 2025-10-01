@@ -19,6 +19,7 @@ I am Prashant Sharma, a dedicated Java Full Stack Developer with a strong founda
 ### 💼 Selected Projects
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Smart_Contact_Manager](https://github.com/prashantsharma2004/Smart_Contact_Manager-19) |“Manage your contacts effortlessly with Smart Contact Manager | Spring Boot,Java ,Thymeleaf, HTML, CSS, Bootstrap,MySQL,Spring Data JPA, Bootstrap Icons
 | [Hospital Management System](https://github.com/prashantsharma2004/HOSPITAL-MANAGEMENT-SYSTEM.git) | Comprehensive system for healthcare management System | Java, JDBC Connectivity, MySQL |
 | [Notehub Application](https://github.com/prashantsharma2004/Notehub-application.git) | Efficient note-taking web application | Java, JSP, Servlets,Hibernate(ORM) |
 | [File Hider](https://github.com/prashantsharma2004/File-Hider.git) | Secure file encryption and management | Java,OOP,JDBC,mail API |
